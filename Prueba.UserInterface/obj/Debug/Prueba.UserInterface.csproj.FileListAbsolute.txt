@@ -1,0 +1,10 @@
+C:\Csharp\MantenimientoADONET\Prueba.UserInterface\bin\Debug\Prueba.UserInterface.exe.config
+C:\Csharp\MantenimientoADONET\Prueba.UserInterface\bin\Debug\Prueba.UserInterface.exe
+C:\Csharp\MantenimientoADONET\Prueba.UserInterface\bin\Debug\Prueba.UserInterface.pdb
+C:\Csharp\MantenimientoADONET\Prueba.UserInterface\obj\Debug\Prueba.UserInterface.csproj.AssemblyReference.cache
+C:\Csharp\MantenimientoADONET\Prueba.UserInterface\obj\Debug\Prueba.UserInterface.Properties.Resources.resources
+C:\Csharp\MantenimientoADONET\Prueba.UserInterface\obj\Debug\Prueba.UserInterface.csproj.GenerateResource.cache
+C:\Csharp\MantenimientoADONET\Prueba.UserInterface\obj\Debug\Prueba.UserInterface.csproj.CoreCompileInputs.cache
+C:\Csharp\MantenimientoADONET\Prueba.UserInterface\obj\Debug\Prueba.UserInterface.exe
+C:\Csharp\MantenimientoADONET\Prueba.UserInterface\obj\Debug\Prueba.UserInterface.pdb
+C:\Csharp\MantenimientoADONET\Prueba.UserInterface\obj\Debug\Prueba.UserInterface.frmCategoria.resources
